@@ -1,0 +1,5 @@
+**/ent/*
+!**/ent/schema
+!**/ent/generate.go
+tmp
+cron-tmp
